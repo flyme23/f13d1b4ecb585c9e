@@ -1,0 +1,5 @@
+Player URL:
+https://flyme23.github.io/player/?list=https://raw.githubusercontent.com/flyme23/f13d1b4ecb585c9e/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/flyme23/f13d1b4ecb585c9e/refs/heads/master/github_master.m3u8
